@@ -1,2 +1,5 @@
 # RP3ExternalCheeto
-RP3ExternalCheeto by RiritoXXL
+This is My First External Cheeto for Game RP3(Realpolitiks 3)... So Enjoy to use this!!!
+
+> [!NOTE]
+> This External Cheeto is WIP(Work in Progress)!!!
